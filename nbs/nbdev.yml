@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "fastpolvo"
+  site-url: "https://lgvaz.github.io/fastpolvo"
+  description: "polvo tentacle for fastai"
+  repo-branch: master
+  repo-url: "https://github.com/lgvaz/fastpolvo"
